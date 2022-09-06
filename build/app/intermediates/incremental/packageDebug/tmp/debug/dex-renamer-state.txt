@@ -1,0 +1,4 @@
+#Tue Sep 06 11:22:08 IDT 2022
+base.0=C\:\\Users\\lbarzill\\OneDrive - Intel Corporation\\Documents\\apps\\mi_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
